@@ -1,2 +1,3 @@
 This is second file
 Pulling from feature2 only
+Modifying the file2.txt from local repo
