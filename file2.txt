@@ -2,3 +2,4 @@ This is second file
 Pulling from feature2 only
 Modifying the file2.txt from local repo
 MODIFIED FILE2.txt AT 1.10AM
+MODIFIED FILE2.txt AT 1.22AM
